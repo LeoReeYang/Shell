@@ -1,1 +1,1 @@
-g++ main.cpp -o main -std=c++17 && ./main
+g++ main.cc shell.cc -o main -std=c++17 && ./main
